@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website is not available without authorization, show the authorization window for all client urls
+Ability to register, with the ability to open this route by url; after successful registration redirects to the authorization page
+All pages except for registration are available to an authorized client
+After authorization, the client sees the main page with a list of users
+Client side routing
+
+#All these tasks are done
+
+I had a question in the course of work, why does it return ID during registration and not during authorizations.  About this, I would like to ask a couple of things.
 
 ## Available Scripts
 
