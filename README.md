@@ -6,7 +6,7 @@ All pages except for registration are available to an authorized client
 After authorization, the client sees the main page with a list of users
 Client side routing
 
-#All these tasks are done
+# All these tasks are done
 
 I had a question in the course of work, why does it return ID during registration and not during authorizations.  About this, I would like to ask a couple of things.
 
